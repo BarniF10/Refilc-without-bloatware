@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://refilc.hu/image/brand/logo.png" width=150>
+  <img src="https://www.pngmart.com/files/22/Xi-Jinping-PNG.png" width=150>
   <h1 align=center><b>reFilc</b></h1>
 </p>
 
