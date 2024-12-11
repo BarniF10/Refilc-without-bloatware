@@ -1,6 +1,6 @@
 <p align=center>
   <img src="https://www.pngmart.com/files/22/Xi-Jinping-PNG.png" width=150>
-  <h1 align=center><b>reFilc</b></h1>
+  <h1 align=center><b>Kínai Toll</b></h1>
 </p>
 
 #### Xi Jinping által ellenőrzött és preferált refilc fork. Egy körtétől nektek.
